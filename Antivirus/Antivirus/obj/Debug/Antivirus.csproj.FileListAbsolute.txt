@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Antivirus\Antivirus\bin\Debug\Antivirus.dll
+C:\Users\admin\Desktop\Antivirus\Antivirus\bin\Debug\Antivirus.pdb
+C:\Users\admin\Desktop\Antivirus\Antivirus\bin\Debug\Antivirus.tlb
+C:\Users\admin\Desktop\Antivirus\Antivirus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Antivirus\Antivirus\obj\Debug\Interop.NktWLMailApi.dll
+C:\Users\admin\Desktop\Antivirus\Antivirus\obj\Debug\Interop.NktWLMailApiInit.dll
+C:\Users\admin\Desktop\Antivirus\Antivirus\obj\Debug\Interop.NktWLMailStore.dll
+C:\Users\admin\Desktop\Antivirus\Antivirus\obj\Debug\Antivirus.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Antivirus\Antivirus\obj\Debug\Antivirus.dll
+C:\Users\admin\Desktop\Antivirus\Antivirus\obj\Debug\Antivirus.pdb
+C:\Users\admin\Desktop\Antivirus\Antivirus\bin\Debug\nClam.dll
